@@ -1,0 +1,49 @@
+th {
+	text-align: left;
+	font-weight: solid;
+}
+
+.rghslider {
+	display: block;
+	width: 280px
+}
+
+table {
+	position: absolute;
+	left: 1170px;
+	top: 370px;
+	width: 290px;
+	height: 610px;
+	background: #2a2a2a;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+th {
+	padding: 8px;
+	background: #cb7c53;
+	color: #fffdff;
+}
+
+td {
+	padding: 8px;
+	color: #a69b9f
+}
+
+input[type=submit] {
+	width: 72px;
+	height: 27px;
+	margin: 5px;
+	padding 0px;
+	background: #2978a1;
+	color: #fefffd;
+	cursor: pointer;
+	border: 0;
+}
+
+input[type=text],
+select {
+	width: 156px;
+	height: 24px;
+	border: 1px;
+}

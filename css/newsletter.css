@@ -1,0 +1,37 @@
+.newsletter {
+	display: block;
+	height: 623px;
+	width: 1678px;
+	background: #dddddd;
+}
+
+h3 {
+	font-size: 30px;
+	color: #2a302e;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 370px;
+	left: 450px;
+	padding: 0;
+	margin: 0;
+}
+
+.maintxt {
+	color: #2a302e;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 410px;
+	left: 450px;
+	width: 690px;
+}
+
+h4 {
+	margin: 0px;
+	padding: 0px;
+	color: #b86942;
+	font-size: 21px;
+	font-weight: solid;
+}
+	

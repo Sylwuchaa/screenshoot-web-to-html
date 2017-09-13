@@ -1,0 +1,28 @@
+.header {
+	display: block;
+	background-color: #2a79a2;
+	height: 200px;
+	width: 1678px;
+	border-bottom: thick solid #5b92b0;
+	border-bottom-width: 10px;
+}
+
+h2 {
+	font-size: 30px;
+	color: #fdfff3;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 190px;
+	left: 450px;
+}
+
+p {
+	width: 999px;
+	color: #fdfff3;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 239px;
+	left: 450px;
+}
